@@ -17,7 +17,7 @@ set -euo pipefail
 # USERNAME. DO NOT CHANGE THE REPOSITORY NAME (voting-dynamodb).
 ##############################################################################
 ##############################################################################
-REPO_URL="https://github.com/YOUR_GITHUB_USERNAME/voting-dynamodb.git"
+REPO_URL="https://github.com/moyerc05/voting-dynamodb.git"
 
 APP_DIR=/home/ec2-user/voting-dynamodb
 
